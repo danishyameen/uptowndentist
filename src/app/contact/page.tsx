@@ -46,7 +46,7 @@ export default function ContactPage() {
                         </div>
                         <div className="contactDetails">
                             <h2 >Email</h2>
-                            <p>git init@gmail.com</p>
+                            <p>uptowndentists@gmail.com</p>
                         </div>
                     </div>
 
